@@ -15,7 +15,10 @@ class Combination
         System.out.println((char)(a+b));
         System.out.println(a);
         System.out.println(b);
+<<<<<<< HEAD
         System.out.println(c+d+e+f);
+=======
+>>>>>>> 82895804f142f26123a5ed63faf6264531dfefc9
         System.out.println((float)(c+d+e+f));
 
     }
