@@ -4,7 +4,7 @@ class Combination
     {
         char a='0';
         char b='1';
-        byte c=101;
+        byte c=101;git log
         short d=10;
         int e=120;
         float f=12.10f;
@@ -15,12 +15,7 @@ class Combination
         System.out.println((char)(a+b));
         System.out.println(a);
         System.out.println(b);
-<<<<<<< HEAD
         System.out.println(c+d+e+f);
-=======
->>>>>>> 82895804f142f26123a5ed63faf6264531dfefc9
-        System.out.println((float)(c+d+e+f));
-
     }
 }
 
